@@ -21,13 +21,17 @@ About Me
 🛠️ Languages & Tools
 
 Languages & Frameworks:
+
 Python · JavaScript · HTML · CSS · SQL · Django · React
 
 Tools & Platforms:
+
 Git · GitHub · MySQL · PostgreSQL · MongoDB · VS Code · Power BI · Tableau
 
 📬 Contact & Socials
+
 Email: csmonicacruz@gmail.com
+
 Social: LinkedIn · Portfolio 
 
 
