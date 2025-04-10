@@ -7,7 +7,9 @@
 Here are some ideas to get you started:
 -->
 
+
 **About Me**
+
 🔭 I’m currently working on personal projects — check out my repos
 
 💻 Focused on Data Analysis; currently learning Power BI and Tableau
@@ -18,7 +20,8 @@ Here are some ideas to get you started:
 
 😄 Pronouns: she/her
 
-
+<-------------------------------------------------------------------------------->
+	
 **🛠️ Languages & Tools**
 
 Languages & Frameworks:
@@ -26,11 +29,12 @@ Languages & Frameworks:
 Python · JavaScript · HTML · CSS · SQL · Django · React
 
 
+
 **Tools & Platforms:
 **
 Git · GitHub · MySQL · PostgreSQL · MongoDB · VS Code · Power BI · Tableau
 
-
+<-------------------------------------------------------------------------------->
 **📬 Contact & Socials**
 
 Email: csmonicacruz@gmail.com
