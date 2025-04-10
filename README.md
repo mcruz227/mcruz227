@@ -40,6 +40,6 @@ Git · GitHub · MySQL · PostgreSQL · MongoDB · VS Code · Power BI · Tablea
 
 Email: csmonicacruz@gmail.com
 
-Social: LinkedIn · Portfolio 
+Social: [LinkedIn ](https://www.linkedin.com/in/monicruz)· Portfolio 
 
 
